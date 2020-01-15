@@ -52,7 +52,7 @@ You can create a Face API resource from either the Azure portal, or the Azure CL
 
   * Choose a location to run this code. Azure has 'regions' all around the world, a region being a group of data centers full of computers and other cloud hardware. Choose a region closest to you.
 
-  * Select the pricing tier. With this app, you will make less than 20 calls a minute, and less than 30,000 calls a month, so select *F0*, the free tier. There is a paid tier for apps that need to use the service more often.
+  * Select the pricing tier. With this app, you will make less than 20 calls a minute, and less than 5,000 calls a month, so select *F0*, the free tier. There is a paid tier for apps that need to use the service more often.
 
     > You can only have one free tier of each Azure Service, so if you have already created a free tier Face API resource before you will either need to use a paid tier, or connect to the existing resource.
 
