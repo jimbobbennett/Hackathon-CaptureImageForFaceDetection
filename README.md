@@ -110,7 +110,7 @@ You can create a Face API resource from either the Azure portal, or the Azure CL
 
   Replace `<face-name>` with a name for your face resource. This will form part of the URL, so needs to be globally unique. Replace `<resource-group-name>` with the name for your resource group, and `<location>` with the closest location to you.
 
-  > This creates a free tier resource, which gives you 20 calls per minute and 30,000 per month. If you want to use a different tier, replace `--sku F0` with a different sku, such as `S0`. See the [pricing docs](https://azure.microsoft.com/pricing/details/cognitive-services/face-api/?WT.mc_id=hackathoncaptureimageforface-github-jabenn) for more details.
+  > This creates a free tier resource, which gives you 20 calls per minute and 5,000 per month. If you want to use a different tier, replace `--sku F0` with a different sku, such as `S0`. See the [pricing docs](https://azure.microsoft.com/pricing/details/cognitive-services/face-api/?WT.mc_id=hackathoncaptureimageforface-github-jabenn) for more details.
 
 * The output of this command will contain and endpoint, so take a note of this value as you will need it later.
 
