@@ -1,6 +1,6 @@
 # Hackathon sample template - Capture an image for face detection using the Azure Face API
 
-This repo provides a template for a Python/Flask app that streams images from teh users webcam to a video player on an HTML page. Then when the use clicks a button, it will capture the image and POST it to a route in the Flask app. This route will send the image to the Azure Face API for face detection
+This repo provides a template for a Python/Flask app that streams images from the users webcam to a video player on an HTML page. Then when the use clicks a button, it will capture the image and POST it to a route in the Flask app. This route will send the image to the Azure Face API for face detection
 
 ## To use this repo
 
