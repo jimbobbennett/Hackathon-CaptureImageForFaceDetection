@@ -147,6 +147,8 @@ You can create a Face API resource from either the Azure portal, or the Azure CL
   ####################################################
   ```
 
+To see a range of capabilities of the Face API, check out the [QuickStarts in the Cognitive Services docs](https://docs.microsoft.com/azure/cognitive-services/face/quickstarts/python-sdk/?WT.mc_id=hackathoncaptureimageforface-github-jabenn).
+
 You can see an example of a similar app that uses the Face API to identify emotions and create a game in [this GitHub repo](https://github.com/jimbobbennett/hackathoncaptureimageforfaceWorkshop).
 
 ## Deploying to Azure
